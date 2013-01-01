@@ -1,4 +1,4 @@
-Distributed-BJs
+Distributed-BlackJack
 ===============
 
-Distributed BJs for Ron Coleman
+Distributed BlackJack for Ron Coleman
