@@ -1,0 +1,16 @@
+Assignment 2
+update bug with bet buttons not disabling on first click - I do not encounter this.
+update bug with cards not displaying - I think this is fixed now
+display bet amounts of other players
+update bug where changing bet does not change table's list
+see whose turn it is
+leave outcomes on the table until the player decides to leave the table (?)
+I keep running into this - hit on a+2 then stay on a+2+5(18) == recieved unexpected:stay.... wtf makes this happen?
+
+Assignment 3
+everything
+
+BetterDealers will be assigned a port baised on the table's minbet.  is a table w/ minBet of 5 will have a dealer at port 6005 - this now seemslike a bad idea, not sure where to go now
+
+the dealer, player, and the house will bind to ports.  This will allow communication as per the poiwerpoint;s reccomendation
+m aybe store output channels in house so that HumanPlayer can be sent them as needed?
